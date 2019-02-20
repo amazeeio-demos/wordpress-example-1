@@ -1,6 +1,6 @@
 docker-compose-yaml: docker-compose.yml
 
-project: wordpress-example
+project: wordpress-example-1
 endpoint: api-lagoon-master.lagoon.ch.amazee.io:31472
 api: api-lagoon-master.lagoon.ch.amazee.io:80
 
